@@ -17,7 +17,7 @@
 2. Determining team responsibilities required discussion and adjustment due to different skill levels among members.
 
 ### Evidence of Work
-- GitHub repository link: 
+- GitHub repository link: https://github.com/youselz68-oss/ICT105-TriByte-MVP.git
 - Files created:
   - `docs/team-profile.md`
   - `docs/idea-log.md`
