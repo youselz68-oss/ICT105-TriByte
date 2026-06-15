@@ -74,3 +74,4 @@ A centralized website where clubs and organizations can post upcoming events, an
 
 ### Why This Is Suitable
 The project can be developed as a prototype using web technologies and database concepts. It includes practical features such as event posting, searching, and registration while remaining achievable within a semester.
+
