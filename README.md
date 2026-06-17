@@ -19,19 +19,35 @@ TriByte
 | Yousel Zangmo | UX/UI Lead, Validation Lead | Design wireframes and interface screens, manage user research and survey evidence |
 
 ## Initial Problem Area
-Our team is exploring challenges related to accessing campus information, with particular attention to the difficulties international students encounter when searching for trustworthy reviews and useful guidance during their transition to university life.
+New international students and first-year university students often struggle to find trustworthy information about dormitories, cafeterias, and campus life. Existing information is scattered across university websites, social media, and word-of-mouth sources, making it difficult for students to make informed decisions and adapt quickly.
 
 ## Target Users
-International students, especially first-year students who are still adjusting to campus facilities, services, and everyday university experiences.
+- International students
+- First-year university students
+- Exchange students
+- New students unfamiliar with campus life
 
-## Initial IT Venture Direction
-We aim to develop a simple and user-friendly web platform where students can share and view reviews of dormitories and campus cafeteria facilities. The platform will also provide practical guides covering important topics related to student life.
+## Selected IT Venture Direction
+**HallPass – Student Reviews & Campus Survival Guide**
+
+A web-based platform that helps students settle into campus life by providing:
+- Student-written dormitory reviews and ratings
+- Cafeteria reviews and food recommendations
+- Campus survival guides
+- A platform for students to share experiences and advice
+
+**Key Features**
+- Dorm Reviews
+- Cafeteria Reviews
+- Survival Guides
+- Student Community Contributions
+- Search and Rating System
 
 ## Technology Possibility
 - Web application interface
 - Dashboard
 - Cloud-based system for user data and review storage
-   
+
 ## Repository Structure
 - `docs/`: Project profiles, idea logs, weekly logbooks, and problem notes.
 - `prototype/`: Interface mockups, wireframes, and screen designs.
@@ -44,12 +60,12 @@ We aim to develop a simple and user-friendly web platform where students can sha
 ## Weekly Progress Log
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository setup, team profile, initial three-idea logbook | In progress |
-| Lab 2 | | | |
+| Lab 1 | Lab setup and idea log | Repository setup, team profile, initial three-idea logbook | Completed |
+| Lab 2 | Opportunity scanning and NUF scoring | Six-idea opportunity discovery table, technology feasibility mapping, NUF scoring, selected project opportunity (HallPass) | Completed |
 
 ## Current Status
-During Lab 1, our team successfully created the project repository and organized the required folder structure. Team roles were assigned across product management, technical development, and user experience functions. We also documented three initial venture concepts using the problem-user-solution approach as the foundation for future validation activities.
+In Lab 02, we reviewed six possible IT opportunities, scored them using the NUF (New, Useful, Feasible) framework, and selected one semester project idea.
+The selected project is HallPass – Student Reviews & Campus Survival Guide because it addresses a real student problem, provides practical value, and is feasible to develop as an MVP using standard web technologies.
 
 ## Next Step
-For Lab 2, we will evaluate the three proposed ideas and choose the most promising option based on feasibility and user needs. We plan to begin early-stage validation by gathering feedback from international students and outlining the core features of the proposed web platform.
-
+In Lab 03, we will prepare customer discovery questions and collect evidence from target users.
